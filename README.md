@@ -4,17 +4,17 @@
 
 Este repositório contém a solução em Java para o desafio do War Room, desenvolvido para a disciplina de Estruturas de Dados II (5º Semestre de Engenharia de Software). O objetivo é encontrar a Cobertura de Vértices (*Vertex Cover*) mínima para uma rede de infraestrutura crítica comprometida por um ataque cibernético.
 
-## 🚀 Como Compilar e Executar
+# 🚀 Como Compilar e Executar
 
 Abra o seu terminal (CMD ou PowerShell) no Windows e navegue até a pasta onde o arquivo está salvo. Em seguida, execute os comandos:
 
-```bash
-# Compile o código Java
+## Compile o código Java
 javac WarRoomGraph.java
 
-# Execute o programa
+## Execute o programa
 java WarRoomGraph
-💻 Como Inserir os Valores (Entrada Dinâmica)
+
+# 💻 Como Inserir os Valores (Entrada Dinâmica)
 Ao executar o programa, o terminal fará duas solicitações de dados. Siga os passos abaixo para mapear a rede afetada:
 
 Passo 1: Quantidade de Conexões
@@ -29,7 +29,7 @@ Para cada conexão, digite o número do dispositivo de origem, dê um espaço, d
 
 Repita esse processo até inserir todas as conexões informadas no Passo 1.
 
-📌 Exemplo Prático de Uso
+# 📌 Exemplo Prático de Uso
 Imagine uma rede onde:
 
 O dispositivo 1 está conectado ao 2
