@@ -2,7 +2,7 @@
 
 # Simulação de War Room com Grafos: Vertex Cover
 
-Este repositório contém a solução em Java para o desafio do War Room, desenvolvido para a disciplina de Estruturas de Dados II (5º Semestre de Engenharia de Software). O objetivo é encontrar a Cobertura de Vértices (*Vertex Cover*) mínima para uma rede de infraestrutura crítica comprometida por um ataque cibernético.
+Este repositório contém a solução em Java para o desafio do War Room, desenvolvido para a disciplina de Estruturas de Dados II. O objetivo é encontrar a Cobertura de Vértices (*Vertex Cover*) mínima para uma rede de infraestrutura crítica comprometida por um ataque cibernético.
 
 # 🚀 Como Compilar e Executar
 
